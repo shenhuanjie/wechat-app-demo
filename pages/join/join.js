@@ -1,4 +1,4 @@
-// pages/login/login.js
+// pages/join/join.js
 Page({
 
   /**
